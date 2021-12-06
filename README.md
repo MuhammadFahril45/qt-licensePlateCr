@@ -4,5 +4,6 @@ I cloned this from https://github.com/MicrocontrollersAndMore/OpenCV_3_License_P
 You might want to watch these https://www.youtube.com/watch?v=j5o4awFuo0c, https://www.youtube.com/watch?v=euG7-o9oPKg.
 
 Setup Opencv Windows + Mingw + Qt
-- Part 1 https://www.youtube.com/watch?v=5hQGyiDqAzk
-- Part 2 https://www.youtube.com/watch?v=rz4Xh5ymzgI
+-https://github.com/opencv/opencv/tree/3.4.16
+-https://sourceforge.net/projects/mingw-w64/files/
+-https://download.qt.io/official_releases/qt/5.12/5.12.0/
